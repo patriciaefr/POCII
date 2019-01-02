@@ -1,2 +1,2 @@
 # POCII
-Plugin eclipse com sumarização
+Arquivo da sumarização utilizando PFR e NMF.
